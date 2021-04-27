@@ -1,3 +1,10 @@
+[build]
+  publish = "public"
+  command = "npm run build"
+  
+[build.environment]
+  NODE_VERSION = "10"
+
 [[redirects]]
   from = "https://finance.fertindo.com"
   to = "https://accounts.zoho.com/signin?servicename=ZohoBooks&LOGIN_ID=admin@fertindo.com"
