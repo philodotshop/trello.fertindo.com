@@ -2,7 +2,7 @@
   NODE_VERSION = "10"
 
 [[redirects]]
-  from = "https://finance.fertindo.com"
-  to = "https://accounts.zoho.com/signin?servicename=ZohoBooks&LOGIN_ID=admin@fertindo.com"
+  from = "https://trello.fertindo.com"
+  to = "https://trello.com/b/75eHrOWb/fertindo-biotech"
   status = 301
   force = true
